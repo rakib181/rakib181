@@ -14,5 +14,6 @@
 
 ![Rakibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakib181&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakib181&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?username=rakib181&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rakib181&theme=tokyonight)
+
 
