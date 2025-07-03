@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Md. Rakibul Hasan 👋
 
-<!--
-**rakib181/rakib181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student at Southeast University, Dhaka
+- 💻 Interested in web development & AI
+- 🚀 Always learning
 
-Here are some ideas to get you started:
+## Projects
+- Project 1: Performing CRUD using AJAX
+- Project 2: Admin Panel using CRUD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Linkdin : [Md. Rakibul Hasan](https://www.linkedin.com/in/md-rakibul-hasan-344013195)
+- Twitter: [@RAKIB06378757](https://twitter.com/RAKIB06378757)
